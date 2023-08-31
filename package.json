@@ -1,0 +1,24 @@
+{
+   "name": "start",
+   "version": "1.0.0",
+   "description": "gulp starter pack",
+   "main": "main.js",
+   "scripts": {
+      "dev": "gulp"
+   },
+   "author": "Krivich Andery",
+   "license": "ISC",
+   "devDependencies": {
+      "@babel/core": "^7.21.3",
+      "@babel/preset-env": "^7.20.2",
+      "babel-loader": "^9.1.2",
+      "browser-sync": "^2.29.1",
+      "del": "^6.1.1",
+      "gulp": "^4.0.2",
+      "gulp-clean-css": "^4.3.0",
+      "gulp-cli": "^2.3.0",
+      "gulp-file-include": "^2.3.0",
+      "gulp-replace": "^1.1.4",
+      "gulp-svg-sprite": "^2.0.3"
+   }
+}

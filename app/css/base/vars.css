@@ -1,0 +1,21 @@
+:root {
+   /* global */
+   --container-max-width: 1110px;
+   --container-safety-indents: 15px;
+
+   /* fonts */
+   --font-family: "Roboto", sans-serif;
+   --font-size: initial;
+   --line-height: normal;
+
+   /* Colors */
+   --Color-White: #ffffff;
+   --menu-black: #000000;
+   --Header-Black: #212121;
+   --Color-Red: #dc4433;
+   --Button-Hover-Red: #cb1400;
+   --Light-grey: #c7c7c7;
+   --Menu-Dark-Grey: #424242;
+   --focus-main-color: #cb4000;
+   --main-text-color: var(--Menu-Dark-Grey, #424242);
+}
